@@ -1,0 +1,44 @@
+div {
+    display: inline-block;
+}
+
+
+.satu{
+    width: 230px;
+    height: 600px;
+    background-color: yellow;
+    margin-right: 30px;
+    margin-left: 20px;
+    margin-top: 35px;
+   
+
+}
+
+.dua{
+    width: 230px;
+    height: 600px;
+    background-color: orange;
+    margin-right: 30px;
+    margin-left: 20px;
+    margin-top: 35px;
+
+}
+
+.tiga{
+    width: 230px;
+    height: 600px;
+    background-color: lightgreen;
+    margin-right: 30px;
+    margin-left: 20px;
+    margin-top: 35px;
+
+}
+
+.empat{
+    width: 230px;
+    height: 600px;
+    background-color: lightskyblue;
+    margin-right: 30px;
+    margin-left: 20px;
+    margin-top: 35px;
+}
